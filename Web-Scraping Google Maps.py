@@ -14,6 +14,7 @@ import geoalchemy2
 import openpyxl
 
 keywords = ["Oficina", "Automotivo", "Mecânica"]
+# keywords = ["Empório", "Mineiro", "Carnes"]
 
 for keyword in keywords:
 
